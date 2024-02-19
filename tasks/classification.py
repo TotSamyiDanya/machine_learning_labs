@@ -1,4 +1,3 @@
-import graphviz
 import pandas
 from sklearn import tree
 import seaborn as sns
